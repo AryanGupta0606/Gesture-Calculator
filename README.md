@@ -44,9 +44,9 @@ Make sure you have Python 3.7+ , MediaPipe and OpenCV installed.
 
 ## 🎮 How to Use
 ### Input Zones:
-- Left Box (Input 1): Show fingers (0–5) using left hand
+- **Left Box** (Input 1): Show fingers (0–5) using left hand
 
-- Right Box (Input 2): Show fingers (0–5) using right hand
+- **Right Box** (Input 2): Show fingers (0–5) using right hand
 
 ### Operator Buttons:
 - Point your left index finger at any of the buttons to select:
@@ -61,9 +61,9 @@ Make sure you have Python 3.7+ , MediaPipe and OpenCV installed.
 
 ### Confirming Input:
 
-- ✋ Open right palm in the green box to confirm current digit/operator
+- ✋ Open **right palm** in the green box to confirm current digit/operator
 
-- ✊ Make fists with both hands to evaluate the full expression
+- ✊ Make **fists with both hands** to evaluate the full expression
 
 ### 🛠️ Customization Ideas:
 
